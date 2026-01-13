@@ -1,5 +1,5 @@
 # Java-Bytecode-RE
-Mine work on public repo's that are java bytecore reverse-engineering related.
+My work on public repo's that are java bytecode reverse-engineering related.
 
 
 | 1 | [#90](https://github.com/narumii/Deobfuscator/pull/90) | `narumii/Deobfuscator` | — | Transformers for HP888's products, used in safemc, nsclient etc.<br>
