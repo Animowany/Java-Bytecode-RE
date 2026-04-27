@@ -9,5 +9,5 @@ My work on public repo's that are java bytecode reverse-engineering related.
 | 5 | [#117](https://github.com/narumii/Deobfuscator/pull/117) | `narumii/Deobfuscator` | — | Branchlock salting done<br>
 | 6 | [#118](https://github.com/narumii/Deobfuscator/pull/118) | `narumii/Deobfuscator` | — | Superblaubeere InvokeDynamic transformer ported from old source, also added AES decryption to available SuperblaubeereStringTransformer. Fixed StringPoolTransformer deleting valid methods and made it work with SB27.<br>
 | 7 | [#119](https://github.com/narumii/Deobfuscator/pull/119) | `narumii/Deobfuscator` | — | Full Skidfuscator 2.0.11 Community deobfuscation<br>
-| 7 | [#126](https://github.com/Diobf/Deobfuscator/pull/126) | `Diobf/Deobfuscator` | — | Newest qProtect Strong String Transformer and bugfixes<br>
+| 8 | [#126](https://github.com/Diobf/Deobfuscator/pull/126) | `Diobf/Deobfuscator` | — | Newest qProtect Strong String Transformer and bugfixes<br>
 
